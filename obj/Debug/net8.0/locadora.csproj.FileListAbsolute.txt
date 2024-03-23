@@ -12,3 +12,4 @@ C:\Users\pedro\source\repos\locadora\locadora\obj\Debug\net8.0\refint\locadora.d
 C:\Users\pedro\source\repos\locadora\locadora\obj\Debug\net8.0\locadora.pdb
 C:\Users\pedro\source\repos\locadora\locadora\obj\Debug\net8.0\locadora.genruntimeconfig.cache
 C:\Users\pedro\source\repos\locadora\locadora\obj\Debug\net8.0\ref\locadora.dll
+C:\Users\pedro\source\repos\locadora\locadora\obj\Debug\net8.0\locadora.sourcelink.json
